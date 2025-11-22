@@ -11,7 +11,7 @@ Demo educativa sobre programación asíncrona en Flutter usando FutureBuilder.
 ## 🚀 Cómo ejecutar
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU-USUARIO/futurebuilder-demo.git
+git clone https://github.com/(TU-USUARIO)/futurebuilder-demo.git
 
 # Entrar a la carpeta
 cd futurebuilder-demo
@@ -42,4 +42,4 @@ Este proyecto fue creado como material educativo para explicar FutureBuilder en 
 
 ## 👥 Autores
 
-Grupo [Tu Número] - Presentación Flutter 2024
+Scrum 5 - Presentación Flutter 2024
